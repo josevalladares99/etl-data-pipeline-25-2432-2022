@@ -1,0 +1,156 @@
+id_cliente,cliente,correo,ciudad
+CL100,Comercial Díaz 0,cliente065@empresa.com,Santa Ana
+CL101,Grupo Ideal 1,cliente131@correo.sv,San Salvador
+CL102,Grupo Ideal 2,cliente211@empresa.com,San Miguel
+CL103,Almacenes Prado 3,cliente329@gmail.com,Santa Ana
+CL104,Soluciones CR 4,cliente441@gmail.com,La Libertad
+CL105,Distribuciones Luna 5,cliente592@empresa.com,Santa Ana
+CL106,Grupo Ideal 6,cliente619@outlook.com,San Salvador
+CL107,Almacenes Prado 7,cliente75@empresa.com,San Salvador
+CL108,Empresa Nova 8,cliente861@outlook.com,Santa Ana
+CL109,Distribuciones Luna 9,cliente998@correo.sv,La Libertad
+CL110,Grupo Ideal 10,cliente1058@gmail.com,La Libertad
+CL111,Tienda Central 11,cliente1111@gmail.com,La Libertad
+CL112,Importadora del Valle 12,cliente1233@outlook.com,San Salvador
+CL113,Grupo Ideal 13,cliente1320@correo.sv,Santa Ana
+CL114,Distribuciones Luna 14,cliente1415@empresa.com,San Miguel
+CL115,Almacenes Prado 15,correo_invalido,San Salvador
+CL116,Servicios Alfa 16,cliente1616@gmail.com,La Libertad
+CL117,Empresa Nova 17,cliente1731@correo.sv,Santa Ana
+CL118,Distribuciones Luna 18,cliente1882correo.sv,La Libertad
+CL119,Comercial Díaz 19,cliente199@gmail.com,San Miguel
+CL120,Importadora del Valle 20,cliente2064@gmail.com,La Libertad
+CL121,Comercial Díaz 21,cliente2181@outlook.com,La Libertad
+CL122,Almacenes Prado 22,cliente2292@outlook.com,San Miguel
+CL123,Servicios Alfa 23,cliente2338@correo.sv,Santa Ana
+CL124,Empresa Nova 24,cliente241@empresa.com,San Salvador
+CL125,Tienda Central 25,cliente2531@correo.sv,Santa Ana
+CL126,Distribuciones Luna 26,cliente2624@gmail.com,San Miguel
+CL127,Distribuciones Luna 27,cliente2768@empresa.com,La Libertad
+CL128,Almacenes Prado 28,cliente289@gmail.com,Santa Ana
+CL129,Almacenes Prado 29,cliente2950@correo.sv,San Salvador
+CL130,Grupo Ideal 30,cliente306@correo.sv,San Miguel
+CL131,Servicios Alfa 31,cliente3148@empresa.com,Santa Ana
+CL132,Importadora del Valle 32,cliente3296@gmail.com,San Salvador
+CL133,Importadora del Valle 33,cliente3346@gmail.com,San Miguel
+CL134,Mundo Hogar 34,cliente3445@outlook.com,San Salvador
+CL135,Soluciones CR 35,cliente3594@gmail.com,San Miguel
+CL136,Soluciones CR 36,correo_invalido,La Libertad
+CL137,Importadora del Valle 37,cliente3718@gmail.com,Santa Ana
+CL138,Grupo Ideal 38,cliente3846@empresa.com,San Salvador
+CL139,Empresa Nova 39,cliente3983@outlook.com,San Miguel
+CL140,Importadora del Valle 40 ,cliente4088correo.sv,San Salvador
+CL141,Comercial Díaz 41,cliente4190@correo.sv,San Salvador
+CL142,Importadora del Valle 42,cliente4281@outlook.com,Santa Ana
+CL143,Comercial Díaz 43,cliente4318@gmail.com,La Libertad
+CL144,Almacenes Prado 44,cliente4492@correo.sv,San Salvador
+CL145,Soluciones CR 45,cliente455@empresa.com,San Miguel
+CL146,Mundo Hogar 46,cliente4626@gmail.com,San Miguel
+CL147,Mundo Hogar 47,cliente4726@gmail.com,La Libertad
+CL148, Grupo Ideal 48 ,cliente4841@empresa.com,San Miguel
+CL149,Servicios Alfa 49,cliente4966@correo.sv,La Libertad
+CL150,Importadora del Valle 50,cliente5070@correo.sv,San Miguel
+CL151,Comercial Díaz 51,cliente5133@gmail.com,Santa Ana
+CL152,Grupo Ideal 52,correo_invalido,San Salvador
+CL153,Servicios Alfa 53,cliente5337@empresa.com,Santa Ana
+CL154,Importadora del Valle 54,cliente547@empresa.com,San Salvador
+CL155,Mundo Hogar 55,cliente5535@gmail.com,San Salvador
+CL156,Soluciones CR 56,cliente5648@correo.sv,San Salvador
+CL157,Servicios Alfa 57,cliente5752@correo.sv,Santa Ana
+CL158,Grupo Ideal 58,cliente5850@empresa.com,San Salvador
+CL159,Comercial Díaz 59,cliente5924@correo.sv,Santa Ana
+CL160,Mundo Hogar 60,cliente6089@correo.sv,La Libertad
+CL161,Almacenes Prado 61,cliente6148@empresa.com,San Miguel
+CL162,Soluciones CR 62,cliente6211correo.sv,San Miguel
+CL163, Importadora del Valle 63 ,cliente6311@correo.sv,San Salvador
+CL164,Servicios Alfa 64,cliente6478@outlook.com,Santa Ana
+CL165,Almacenes Prado 65,cliente6570@empresa.com,San Miguel
+CL166,Comercial Díaz 66,cliente6642@gmail.com,Santa Ana
+CL167,Soluciones CR 67,cliente6711@empresa.com,Santa Ana
+CL168,Almacenes Prado 68,cliente6885@empresa.com,San Salvador
+CL169,Importadora del Valle 69,cliente6940@correo.sv,San Miguel
+CL170,Empresa Nova 70,cliente7078@correo.sv,San Salvador
+CL171,Importadora del Valle 71,cliente7122@correo.sv,San Salvador
+CL172,Mundo Hogar 72,cliente7245@correo.sv,San Miguel
+CL173,Servicios Alfa 73,cliente736@empresa.com,San Miguel
+CL174,Tienda Central 74,cliente7479@correo.sv,La Libertad
+CL175,Importadora del Valle 75,cliente7536@gmail.com,La Libertad
+CL176,Distribuciones Luna 76,,Santa Ana
+CL177,Tienda Central 77,cliente7747@outlook.com,San Miguel
+CL178,Tienda Central 78,cliente784@outlook.com,La Libertad
+CL179,Servicios Alfa 79,cliente7978@correo.sv,Santa Ana
+CL180, Servicios Alfa 80 ,correo_invalido,Santa Ana
+CL181,Comercial Díaz 81,cliente819outlook.com,Santa Ana
+CL182,Mundo Hogar 82,cliente8283@empresa.com,La Libertad
+CL183, Comercial Díaz 83 ,cliente8347@correo.sv,San Miguel
+CL184,Almacenes Prado 84,cliente8473@gmail.com,San Salvador
+CL185,Almacenes Prado 85,cliente8578@outlook.com,Santa Ana
+CL186,Almacenes Prado 86,cliente8687@correo.sv,La Libertad
+CL187,Empresa Nova 87,correo_invalido,La Libertad
+CL188,Importadora del Valle 88,cliente8857gmail.com,San Salvador
+CL189,Grupo Ideal 89,cliente8974@outlook.com,San Salvador
+CL190,Servicios Alfa 90,cliente9068@empresa.com,La Libertad
+CL191,Grupo Ideal 91,cliente9151@empresa.com,San Miguel
+CL192,Soluciones CR 92,cliente9284@empresa.com,San Salvador
+CL193,Servicios Alfa 93,cliente9332@gmail.com,La Libertad
+CL194,Servicios Alfa 94,cliente944@outlook.com,San Salvador
+CL195,Servicios Alfa 95,cliente9564@correo.sv,San Miguel
+CL196,Grupo Ideal 96,cliente9672@gmail.com,Santa Ana
+CL197,Servicios Alfa 97,cliente9734@empresa.com,San Salvador
+CL198,Distribuciones Luna 98,cliente9891@correo.sv,San Miguel
+CL199,Empresa Nova 99,cliente9928@empresa.com,La Libertad
+CL200,Soluciones CR 100,cliente10089@correo.sv,San Salvador
+CL201,Importadora del Valle 101,cliente10126@gmail.com,San Salvador
+CL202,Tienda Central 102,,La Libertad
+CL203,Distribuciones Luna 103,,Santa Ana
+CL204,Grupo Ideal 104,cliente10492@correo.sv,La Libertad
+CL205,Mundo Hogar 105,cliente10512@empresa.com,San Salvador
+CL206,Distribuciones Luna 106,cliente10686empresa.com,La Libertad
+CL207,Tienda Central 107 ,cliente10791@gmail.com,San Miguel
+CL208,Almacenes Prado 108,cliente10871@empresa.com,La Libertad
+CL209,Tienda Central 109,cliente10939@outlook.com,San Salvador
+CL210,Mundo Hogar 110,cliente11092@outlook.com,La Libertad
+CL211,Distribuciones Luna 111,cliente11147@outlook.com,Santa Ana
+CL212,Tienda Central 112,correo_invalido,La Libertad
+CL213,Importadora del Valle 113,cliente11318@outlook.com,Santa Ana
+CL214,Grupo Ideal 114,cliente11464@gmail.com,San Miguel
+CL215,Distribuciones Luna 115,cliente11547@empresa.com,Santa Ana
+CL216,Distribuciones Luna 116,correo_invalido,La Libertad
+CL217,Mundo Hogar 117,cliente11779@gmail.com,San Salvador
+CL218,Soluciones CR 118,cliente1189empresa.com,Santa Ana
+CL219,Almacenes Prado 119,cliente11951@correo.sv,San Miguel
+CL220,Almacenes Prado 120,cliente12068@correo.sv,Santa Ana
+CL221,Soluciones CR 121,cliente12199@correo.sv,Santa Ana
+CL222,Servicios Alfa 122,cliente12274@gmail.com,Santa Ana
+CL223,Tienda Central 123,correo_invalido,San Miguel
+CL224,Grupo Ideal 124,cliente12483@gmail.com,La Libertad
+CL225,Servicios Alfa 125,cliente12558@correo.sv,Santa Ana
+CL226,Mundo Hogar 126,cliente12688@empresa.com,Santa Ana
+CL227, Empresa Nova 127 ,cliente12717@outlook.com,San Salvador
+CL228,Distribuciones Luna 128,cliente12899@outlook.com,San Miguel
+CL229,Importadora del Valle 129,cliente12956@gmail.com,Santa Ana
+CL230,Almacenes Prado 130,cliente13016@outlook.com,San Miguel
+CL231,Comercial Díaz 131,cliente13139@outlook.com,Santa Ana
+CL232,Almacenes Prado 132,cliente13221@empresa.com,La Libertad
+CL233,Comercial Díaz 133,cliente13391@outlook.com,La Libertad
+CL234,Mundo Hogar 134,cliente13445@empresa.com,Santa Ana
+CL235,Comercial Díaz 135,cliente13511@empresa.com,La Libertad
+CL236,Servicios Alfa 136,cliente13626@empresa.com,Santa Ana
+CL237,Mundo Hogar 137,cliente13717@empresa.com,La Libertad
+CL238,Distribuciones Luna 138,cliente13879@gmail.com,San Salvador
+CL239,Almacenes Prado 139,cliente13965@outlook.com,San Salvador
+CL240,Servicios Alfa 140,cliente14076@outlook.com,San Salvador
+CL241,Soluciones CR 141,cliente14122@empresa.com,San Miguel
+CL242,Comercial Díaz 142,cliente14273@gmail.com,San Miguel
+CL243,Tienda Central 143,cliente1434@gmail.com,San Salvador
+CL244,Distribuciones Luna 144,cliente1446@empresa.com,San Miguel
+CL245,Importadora del Valle 145,cliente14584@outlook.com,La Libertad
+CL246,Empresa Nova 146,cliente14699@correo.sv,Santa Ana
+CL247, Soluciones CR 147 ,cliente14780@gmail.com,Santa Ana
+CL248,Empresa Nova 148,cliente14864@empresa.com,Santa Ana
+CL249,Soluciones CR 149,cliente14983@empresa.com,San Salvador
+CL104,Soluciones CR 4,cliente441@gmail.com,La Libertad
+CL216,Distribuciones Luna 116,correo_invalido,La Libertad
+CL102,Grupo Ideal 2,cliente211@empresa.com,San Miguel
+CL123,Servicios Alfa 23,cliente2338@correo.sv,Santa Ana
+CL223,Tienda Central 123,correo_invalido,San Miguel
