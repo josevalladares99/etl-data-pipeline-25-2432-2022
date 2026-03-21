@@ -1,0 +1,19 @@
+id_cliente,cliente,correo,ciudad,motivo_rechazo
+CL115,Almacenes Prado 15,correo_invalido,San Salvador,correo_sin_arroba
+CL118,Distribuciones Luna 18,cliente1882correo.sv,La Libertad,correo_sin_arroba
+CL136,Soluciones CR 36,correo_invalido,La Libertad,correo_sin_arroba
+CL140,Importadora del Valle 40 ,cliente4088correo.sv,San Salvador,correo_sin_arroba
+CL152,Grupo Ideal 52,correo_invalido,San Salvador,correo_sin_arroba
+CL162,Soluciones CR 62,cliente6211correo.sv,San Miguel,correo_sin_arroba
+CL176,Distribuciones Luna 76,,Santa Ana,correo_nulo
+CL180, Servicios Alfa 80 ,correo_invalido,Santa Ana,correo_sin_arroba
+CL181,Comercial Díaz 81,cliente819outlook.com,Santa Ana,correo_sin_arroba
+CL187,Empresa Nova 87,correo_invalido,La Libertad,correo_sin_arroba
+CL188,Importadora del Valle 88,cliente8857gmail.com,San Salvador,correo_sin_arroba
+CL202,Tienda Central 102,,La Libertad,correo_nulo
+CL203,Distribuciones Luna 103,,Santa Ana,correo_nulo
+CL206,Distribuciones Luna 106,cliente10686empresa.com,La Libertad,correo_sin_arroba
+CL212,Tienda Central 112,correo_invalido,La Libertad,correo_sin_arroba
+CL216,Distribuciones Luna 116,correo_invalido,La Libertad,correo_sin_arroba
+CL218,Soluciones CR 118,cliente1189empresa.com,Santa Ana,correo_sin_arroba
+CL223,Tienda Central 123,correo_invalido,San Miguel,correo_sin_arroba
