@@ -1,0 +1,18 @@
+id_pago,id_venta,metodo,monto_pagado
+PG8029,,Cheque,2303.44
+PG8038,,Efectivo,4920.39
+PG8039,V9175,Cheque,
+PG8042,,Tarjeta,1939.85
+PG8052,,Pago móvil,1311.49
+PG8055,V9113,Efectivo,
+PG8106,V9132,Cheque,
+PG8116,V9210,Tarjeta,
+PG8120,V9138,Tarjeta,
+PG8133,,Transferencia,4788.09
+PG8155,V9149,Pago móvil,
+PG8170,V9226,Efectivo,
+PG8179,V9000,Tarjeta,
+PG8183,,Tarjeta,3025.4
+PG8195,V9116,Transferencia,
+PG8205,V9076,Pago móvil,
+PG8218,,Pago móvil,1249.18
